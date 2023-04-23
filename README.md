@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Thakur
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Full Stack Developer course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email id-rohitrajthakur10@gmail.com/
 
